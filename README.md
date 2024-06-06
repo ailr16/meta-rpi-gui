@@ -1,3 +1,10 @@
 ## Work in Progress
 
-Apply settings also in local.conf
+Add these layers:
+
+  
+  meta-openembedded/meta-oe
+  meta-raspberrypi
+  meta-rpi-tkinter-image
+  meta-openembedded/meta-python
+  meta-openembedded/meta-networking 
