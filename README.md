@@ -10,7 +10,7 @@ Add these layers:
 
 Until this day, build the image using:
 ```
-bitbake rpilinux-image
+bitbake rpitkinter-image
 ```
 
 NOTE: This recipe's name will change in the future, but it will be documented here

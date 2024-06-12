@@ -10,5 +10,5 @@ IMAGE_INSTALL += " nano"
 
 IMAGE_INSTALL += " libinput"
 IMAGE_INSTALL += " evtest"
-IMAGE_INSTALL += " rpilinux-copy"
-IMAGE_INSTALL += " rpilinux-service"
+IMAGE_INSTALL += " rpi-gui-copy"
+IMAGE_INSTALL += " rpi-gui-service"
