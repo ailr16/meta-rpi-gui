@@ -14,6 +14,9 @@ Available images:
 bitbake rpitkinter-image
 ```
 
+## Showcase
+
+[![Video thumbnail](http://img.youtube.com/vi/h4J5AmWXuX4/0.jpg)](https://www.youtube.com/watch?v=h4J5AmWXuX4)
 
 ## Future work
 - Switch from X11 (xorg) to Wayland
