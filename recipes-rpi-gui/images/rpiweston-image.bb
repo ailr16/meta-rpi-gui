@@ -8,3 +8,4 @@ IMAGE_INSTALL += " rpi-gpio"
 IMAGE_INSTALL += " nano"
 
 IMAGE_INSTALL += " rpi-gui-copy"
+IMAGE_INSTALL += " rpi-gui-add-group"
